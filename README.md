@@ -1,6 +1,6 @@
-# C-Delpot
+# PlotTreeFusion 
 
-**C-Delpot** is a novel approach that leverages perturbation of model decoding parameters followed by data fusion to enhance results. Our method involves introducing random perturbations to the model parameters of **Deplot**, transforming the perturbed outputs into tree structures, and then performing multiple rounds of voting on the generated tables from these trees. This iterative voting process helps to identify and retain the most accurate and reliable results, leading to improved overall outcomes.
+**PlotTreeFusion ** is a novel approach that leverages perturbation of model decoding parameters followed by data fusion to enhance results. Our method involves introducing random perturbations to the model parameters of **Deplot**, transforming the perturbed outputs into tree structures, and then performing multiple rounds of voting on the generated tables from these trees. This iterative voting process helps to identify and retain the most accurate and reliable results, leading to improved overall outcomes.
 
 ## Installation
 
