@@ -9,3 +9,4 @@ To use C-Delpot, ensure you have Python installed. You will also need to install
 ```bash
 pip install -r requirements.txt
 python main.py
+![struactral](./image/show2.png)
