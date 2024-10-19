@@ -1,6 +1,6 @@
-# Mtreeplot 
+# Mtr-deplot 
 
-**Mtreeplot** is a novel approach that leverages perturbation of model decoding parameters followed by data fusion to enhance results. Our method involves introducing random perturbations to the model parameters of **Deplot**, transforming the perturbed outputs into tree structures, and then performing multiple rounds of voting on the generated tables from these trees. This iterative voting process helps to identify and retain the most accurate and reliable results, leading to improved overall outcomes.
+**Mtr-deplot** is a novel approach that leverages perturbation of model decoding parameters followed by data fusion to enhance results. Our method involves introducing random perturbations to the model parameters of **Deplot**, transforming the perturbed outputs into tree structures, and then performing multiple rounds of voting on the generated tables from these trees. This iterative voting process helps to identify and retain the most accurate and reliable results, leading to improved overall outcomes.
 
 ## Installation
 
