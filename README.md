@@ -1,4 +1,4 @@
-# Mtr-deplot：A Chart to Table Model based on a new data fusion method - Perturbation Fusion tree
+# Mtr-deplot：Chart to Table Model based on a new data fusion method - Perturbation Fusion tree
 
 **Mtr-deplot** is a three-generation model that improves performance by changing the table post-processing method.
 
