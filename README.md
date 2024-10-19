@@ -1,6 +1,9 @@
-# Mtr-deplot 
+# Mtr-deplot：A Chart to Table Model based on a new data fusion method - Perturbation Fusion tree
 
-**Mtr-deplot** is a novel approach that leverages perturbation of model decoding parameters followed by data fusion to enhance results. Our method involves introducing random perturbations to the model parameters of **Deplot**, transforming the perturbed outputs into tree structures, and then performing multiple rounds of voting on the generated tables from these trees. This iterative voting process helps to identify and retain the most accurate and reliable results, leading to improved overall outcomes.
+**Mtr-deplot** is a three-generation model that improves performance by changing the table post-processing method.
+
+We mainly generate different answers by perturbing the decoding parameters of the delpot model, then structure the table in the answer into a tree, and then synthesize the most perfect answer tree as output in a voting weighted form
+![structural](./image/show3.png)
 
 ## Installation
 
@@ -11,5 +14,5 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![structural](./image/show2.png)
+
 
